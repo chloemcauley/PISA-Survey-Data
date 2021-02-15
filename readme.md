@@ -20,3 +20,7 @@ Students learn best when they don't use their own procedures and follow the corr
 ## Key Insights for Presentation
 
 I have already polished my graphs by including appropriate titles, axis labels, and legends in my exploratory analysis. Therefore, the only aspect I would need to change is to put a series of plots into subplots so it is easier for the audience to read. When the graphs are clustered together, I will remove the titles as they are self explanatory in the axis. I will also resize my plots so their dimensions would fit into the slide page. 
+
+## Libraries Used 
+
+NumPy, Pandas, Matplotlib, Seaborn
