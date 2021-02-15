@@ -3,7 +3,7 @@
 ## Dataset
 
 
-This dataset contains a survey of the skills and knowledge the student's possess as they reach the end of their compulsory education. This survey investigates how well students are for a life beyond school.
+This dataset contains a survey of the skills and knowledge the student's possess as they reach the end of their compulsory education. This survey investigates how well students are equipped for life beyond school.
 
 Around 510,000 students in 65 economies took put in the survey which assesses reading, mathematics, and science representing 28 million 15 year olds, globally. Out of the 65 economies, 44 took part in an assessment of creative problem solving, and 18 in an assessment of financial literacy.
 
