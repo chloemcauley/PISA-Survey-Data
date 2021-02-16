@@ -20,6 +20,11 @@ East Asian countries had the top grades for mathematics, science, and reading. T
 
 I have already polished my graphs by including appropriate titles, axis labels, and legends in my exploratory analysis. Therefore, the only aspect I would need to change is to put a series of plots into subplots so it is easier for the audience to read. When the graphs are clustered together, I will remove the titles as they are self explanatory in the axis. I will also resize my plots so their dimensions would fit into the slide page. 
 
+## Learning Outcomes
+* To use univariate, bivariate, and multivariate plots to explore relationships within the dataset.
+* To summarize main findings and reflect steps that I took in my data exploration.
+* Told a story through data by using visualizations to illustrate my main findings by using a slide deck from Jupyter Notebook.
+
 ## Libraries Used 
 
 NumPy, Pandas, Matplotlib, Seaborn
